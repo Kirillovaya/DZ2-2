@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         int customerAccount = 300;
-        int bonusScale = 100;
+        int bonusScale = 20;
         int uploadVolume = 1200;
         int bonus;
 
